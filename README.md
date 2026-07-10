@@ -237,4 +237,4 @@ Additional project documentation is available in the `docs` directory:
 - CrowdSec Documentation
 - Metasploit Framework Documentation
 
-> **Note:** This project was originally completed as the capstone project during my SOC Analyst internship and has been restructured into a standalone repository with improved documentation and organization for portfolio purposes.
+
