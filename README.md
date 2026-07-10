@@ -117,7 +117,7 @@ A containment task was created within TheHive to track and document response act
 
 CrowdSec Firewall Bouncer was used to manually block the attacker's IP address, preventing further communication with the target system.
 
-![CrowdSec](Screenshots/05_Blocked_IP_With_Crowdsec.png)
+![CrowdSec](Screenshots/05_Blocked_IP_With_CrowdSec.png)
 
 ---
 
@@ -153,7 +153,7 @@ Cannot cast from [double] to [void]
 
 Because of inconsistent timestamp fields, these metrics could not be calculated. The issue was documented for future improvement and highlighted the importance of standardized event timestamps for operational reporting.
 
-![Runtime Field Error](Screenshots/08_Problem_Creating_Runtime_Field.png)
+![Runtime Field Error](Screenshots/08_Runtime_Field_Error.png)
 
 ---
 
